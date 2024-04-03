@@ -1,2 +1,2 @@
-![1712132879665](D:\Git_project\internlm-tutorial\course02\1712132879665.png)
+![1712132879665](D:\Git_project\internlm-tutorial\course02\hw.assets\1712132879665.png)
 
