@@ -62,3 +62,5 @@ nLHFNnx5lSaY1i1r
 cd /root/demo/InternLM-XComposer
 python /root/demo/InternLM-XComposer/examples/gradio_demo_chat.py  --code_path /root/models/internlm-xcomposer2-vl-7b --private --num_gpus 1 --port 6006
 ```
+
+![image-20240407120253262](hw.assets/image-20240407120253262.png)
